@@ -1,10 +1,11 @@
 // back end logic
-function beepBoop(i){
-  var nums = [1,2,3,11,13,32];
+function beepBoop(userInput){
+  var beepBoopArray = [];
 
-  for (var i=0; i<= number; i++ ){
-    if  
+  for (var i=0; i<= userInput; i++ ){
+    if
   }
+};
 
 // front end logic
   // Everything below this was created under the intention of making output based misinterpretation of assignment.  Info retained for proof of working during project time.

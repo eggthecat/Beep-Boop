@@ -6,7 +6,7 @@
 
 ## Description
 
-_A web application that takes a number from a user and returns a range of numbers from 0 to the user inputted number with the following exceptions:
+_A web application that takes a number from a user and returns a range of numbers from 0 to the user inputted number with the following exceptions:_
 
 Numbers that contain a 1: all digits are replaced (all digits) with "Beep!"
 Numbers that contain a 2: all digits are replaced (all digits) with "Boop!"

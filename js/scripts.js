@@ -1,5 +1,5 @@
-function beepBoop(number){
-  for (var i = 0; i <= 100;1++){
+function beepBoop(i){
+  for (var i = 0;i <= 100;1++){
     if (i === 0)
   console.log ('Beep!');
 console.log ('Boop!');

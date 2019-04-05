@@ -3,7 +3,7 @@ function beepBoop(userInput){
   var beepBoopArray = [];
 
   for (var i=0; i<= userInput; i++ ){
-    if
+    if (i.toString())
   }
 };
 

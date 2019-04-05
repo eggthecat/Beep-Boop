@@ -46,4 +46,4 @@ _HTML CSS JS_
 
 *[MIT](https://choosealicense.com/licenses/mit/)*
 
-Copyright (c) 2016 **_Dominic Montelongo_**
+Copyright (c) 2019 **_Dominic Montelongo_**

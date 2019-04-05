@@ -8,6 +8,10 @@ function beepBoop(userInput){
 };
 
 // front end logic
+$(document).ready(function){
+  $
+}
+
   // Everything below this was created under the intention of making output based misinterpretation of assignment.  Info retained for proof of working during project time.
   // for (var i = 0;i <= 100;1++) {
   //   if (i === 32) {

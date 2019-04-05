@@ -5,6 +5,7 @@ function beepBoop(userInput){
   for (var i=0; i<= userInput; i++ ){
 // .toString = convert number to string / .includes = "The includes() method determines whether an array includes a certain value among its entries, returning true or false as appropriate." - MDN Array.prototype.includes
     if (i.toString().includes('32')){
+      beepBoopArray.push("I'm sorry, Dave. I'm afraid I can't do that.");
       
     }
 

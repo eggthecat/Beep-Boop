@@ -23,6 +23,12 @@ A user should be able to enter a new number and see new results over and over ag
 Text copied from assignment page to clarify purpose of project.  
 _
 
+| Behave                                                                                                         | Input | Output                                      |   |   |
+|----------------------------------------------------------------------------------------------------------------|-------|---------------------------------------------|---|---|
+| IF the highest number in the number is 1 then the output will be "Beep"                                        | 1     | Beep                                        |   |   |
+| IF the highest number in the number is 1 then the output will be "Boop"                                        | 2     | Boop                                        |   |   |
+| IF the highest number in the number is 1 then the output will be "I'm sorry Dave.  I'm afraid I can't do that" | 3     | I'm sorry, Dave.,I'm afraid i can't do that |   |   |
+
 ## Setup/Installation Requirements
 
 * _Clone from GitHub_

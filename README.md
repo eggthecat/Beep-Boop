@@ -2,7 +2,7 @@
 
 #### _Student project for arrays and looping, {4/4/19}_
 
-## Website _ https://eggthecat.io/Beep-Boop/ or https://github.com/eggthecat/Beep-Boop/
+## Website _ https://eggthecat.io/Beep-Boop/ or https://github.com/eggthecat/Beep-Boop/ _
 
 #### By _**Dominic Montelongo**_
 

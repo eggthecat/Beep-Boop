@@ -14,7 +14,7 @@ function beepBoop(userInput){
         beepBoopArray.push("I'm sorry, Dave.  I'm afraid I can't do that.");
     } else if (i.toString().includes("2")){
         beepBoopArray.push("Boop!");
-    } else if (i.toString().includes("3")){
+    } else if (i.toString().includes("1")){
         beepBoopArray.push("Beep!");
     } else {
         beepBoopArray.push(" " + i);

@@ -1,3 +1,8 @@
 body {
   background-image: url(../img/dd1.jpg);
 }
+
+body {
+  color: white;
+  font-family: 'Fredoka One', cursive;
+}

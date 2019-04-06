@@ -2,9 +2,13 @@
 
 #### _Student project for arrays and looping, {4/4/19}_
 
+## Website _ https://eggthecat.io/Beep-Boop/ or https://github.com/eggthecat/Beep-Boop/
+
 #### By _**Dominic Montelongo**_
 
 ## Description
+
+
 
 _A web application that takes a number from a user and returns a range of numbers from 0 to the user inputted number with the following exceptions:_
 

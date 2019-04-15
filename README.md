@@ -25,7 +25,7 @@ A user should be able to enter a new number and see new results over and over ag
 | IF the highest number in the number is 1 then the output will be "Beep"                                        | 1      | Beep                                        |   
 | IF the highest number in the number is 2 then the output will be "Boop"                                        | 2      | Boop                                        |   
 | IF the highest number in the number is 3 then the output will be "I'm sorry Dave.  I'm afraid I can't do that" | 3      | I'm sorry, Dave. I'm afraid I can't do that |  
-| IF the number in the doesn't include 1,2,3 then the output will be a duplication of the number entered         | 4,5,6,7| 4, 5, 6, 7                                  |
+| IF the number is not 1,2,3 then the output will be a duplication of the number entered                         | 4,5,6,7| 4, 5, 6, 7                                  |
 | IF non-number is pressed then input will not be visualized and output won't be created                         | A,B,C  | ((nothing will be shown))                   |
 
 

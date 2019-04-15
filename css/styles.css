@@ -17,3 +17,10 @@ body {
 	width: 100%;
   font-size: 8;
 }
+
+.btn {
+  border-style: double;
+  border-color: white;
+  background-color: red;
+  color: white;
+}

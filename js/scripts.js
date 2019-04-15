@@ -20,11 +20,11 @@ function beepBoop(userInput){
 $(document).ready(function() {
   $("#computerSound").submit(function(event) {
     event.preventDefault();
-    
+
     var userInput = parseInt($("input#userInput").val());
     var result = beepBoop(userInput);
 
     $("#result").show();
     $(".beeps").text(result);
   })
-  });
+});

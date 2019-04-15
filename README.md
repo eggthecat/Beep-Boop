@@ -9,10 +9,12 @@
 ## Description
 
 _A web application that takes a number from a user and returns a range of numbers from 0 to the user inputted number with the following exceptions:_
-
-Numbers that contain a 1: all digits are replaced (all digits) with "Beep!"
-Numbers that contain a 2: all digits are replaced (all digits) with "Boop!"
-Numbers that contain a 3: all digits are replaced (all digits) with "I'm sorry, Dave. I'm afraid I can't do that."
+|--------------------------------------------------------------------------------------------------------------------|
+|Numbers that contain a 1: all digits are replaced (all digits) with "Beep!".                                        |
+|Numbers that contain a 2: all digits are replaced (all digits) with "Boop!".                                        |
+|Numbers that contain a 3: all digits are replaced (all digits) with "I'm sorry, Dave. I'm afraid I can't do that.". |
+|Numbers that aren't 1,2,3 or contain them will be shown as themselves.                                              |
+|Non-numbers will not be shown on screen during input because this program is limited to numbers 0,1,2,3,4,5,6,7,8,9.|
 
 These exceptions are written from least to most important. The first exception should apply unless the second exception does, and the same with the second and third. So, for example, in your finished program,
 
